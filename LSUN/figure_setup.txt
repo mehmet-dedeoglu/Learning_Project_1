@@ -1,0 +1,4 @@
+Generator Iterations;FID Score (LSUN);
+Edge-Only;Fast Adapt. (Full Precision);Fast Adapt. (Ternarized)
+LSUN_Simulations1000/Folder_EdgeOnly_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]FullFID_score_iters;LSUN_Simulations1000/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score_iters;LSUN_Simulations1000/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Ternarized_with_Threshold16FID_score_iters
+LSUN_Simulations1000/Folder_EdgeOnly_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]FullFID_score;LSUN_Simulations1000/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score;LSUN_Simulations1000/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Ternarized_with_Threshold16FID_score
